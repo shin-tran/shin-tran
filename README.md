@@ -1,4 +1,12 @@
-## Hi there 👋
+## About me
+
+Hi, I'm Ngọc ShinTran.
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| HTML/CSS  |
+|     2| JavaScript|
+|     3| C++       |
 
 <!--
 **ngocshintrannn/ngocshintrannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
