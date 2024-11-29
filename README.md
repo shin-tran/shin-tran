@@ -4,8 +4,8 @@ Hi, I'm Ngọc ShinTran.
   
 | Rank | Languages |
 |-----:|-----------|
-|     1| HTML/CSS  |
-|     2| JavaScript|
-|     3| C++       |
+|     1| C++       |
+|     2| HTML/CSS  |
+|     3| JavaScript|
 
 </details>
