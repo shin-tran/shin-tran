@@ -10,4 +10,4 @@ Hi, I'm Ngọc ShinTran.
 
 </details>
 
-![](https://komarev.com/ghpvc/?username=ngocshintrannn)
+![](https://komarev.com/ghpvc/?username=ngocshintrannn&color=green&label=I+LOVE+YOU)
