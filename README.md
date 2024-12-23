@@ -9,3 +9,5 @@ Hi, I'm Ngọc ShinTran.
 |     3| JavaScript|
 
 </details>
+
+![](https://komarev.com/ghpvc/?username=ngocshintrannn)
