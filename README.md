@@ -1,7 +1,3 @@
-<div align="left">
-  <img height="250" src="https://media.discordapp.net/attachments/1188070985484738670/1198254640274350140/ImgWeb.png?ex=65be3c98&is=65abc798&hm=1b8c29997c67f4d4a563fb3d673d6103b4ca42855ebfa4529380db1b04d718b3&=&format=webp&quality=lossless&width=1315&height=431"  />
-</div>
-
 ###
 
 <h2 align="left">Hi 👋! My name is Ngoc and I'm a Front End Web Developer</h2>
@@ -32,7 +28,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="10" />
