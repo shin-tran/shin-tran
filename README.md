@@ -7,7 +7,7 @@
 <div align="left">
  <!--   <img src="https://github-readme-stats.vercel.app/api?username=shin-tran&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shin-tran&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shin-tran&" alt="shin-tran" /></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shin-tran&theme=onedark" alt="shin-tran" />
 </div>  
 
 ###
